@@ -1,0 +1,3 @@
+#!/bin/sh
+
+nim -r c problem${1}.nim
